@@ -1,4 +1,4 @@
-<?php
+<p>HALLO!</p><?php
 $user = $_REQUEST["u"];
 $id = $_REQUEST["i"];
 
